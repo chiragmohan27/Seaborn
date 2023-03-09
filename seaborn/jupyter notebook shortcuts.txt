@@ -1,0 +1,9 @@
+**jupyter notebook shortcuts**
+Shift + Enter run the current cell, select below
+Ctrl + Enter run selected cells
+Alt + Enter run the current cell, insert below
+Ctrl + S save and checkpoint
+hift + Space scroll notebook up
+Space scroll notebook down
+Esc take you into command mode
+Tab code completion or indent 
